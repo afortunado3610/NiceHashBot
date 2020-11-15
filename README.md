@@ -1,4 +1,4 @@
-# NiceHashBot
+# BROWSER-COIN Bot
 NHB3 bot for automatic order management.
 
 - [Features](#features)
@@ -6,7 +6,7 @@ NHB3 bot for automatic order management.
 - [How to compile?](#compile)
 - [Tips for programmers](#tips)
 
-![](https://raw.githubusercontent.com/nicehash/NiceHashBot/master/screenshots/00nhb3.png)
+![](https://raw.githubusercontent.com/BROWSER-COIN/BROWSER-COIN Bot/master/screenshots/00nhb3.png)
 
 # <a name="features"></a> Features
 
@@ -20,7 +20,7 @@ NHB3 bot for automatic order management.
 
 # <a name="run"></a> Instructions on how to run
 
-- Download binaries from here: https://github.com/nicehash/NiceHashBot/releases
+- Download binaries from here: https://github.com/BROWSER-COIN/BROWSER-COIN Bot/releases
 - Extract zip archive
 - Run NHB3.exe
 - Note: .NET Framework 4.7 or higher is required. You can also run multiple instances of NHB3 - each in own folder with different API credentials.
